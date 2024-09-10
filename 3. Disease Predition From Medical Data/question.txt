@@ -1,0 +1,23 @@
+Pred 1
+
+63
+145
+233
+150
+3
+Typical angina
+No
+Downsloping
+fixed defect
+
+Pred 2
+
+41
+130
+204
+172
+2
+Atypical angina
+No
+Upsloping
+Normal
