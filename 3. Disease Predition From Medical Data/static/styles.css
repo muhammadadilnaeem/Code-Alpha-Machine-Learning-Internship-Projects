@@ -1,0 +1,233 @@
+/* Common Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1, p {
+    text-align: center;
+}
+
+input[type="submit"], a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: #d9534f;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover, a:hover {
+    background-color: #c9302c;
+}
+
+/* Welcome Page */
+.welcome-container {
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+}
+
+.welcome-title {
+    color: #ffffff;
+    font-size: 32px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    background-color: #45a049;
+    padding: 6px 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+.welcome-title:hover {
+    color: rgb(217, 255, 92); /* Change text color to red on hover */
+}
+
+.welcome-text {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.welcome-image {
+    max-width: 80%;
+    height: auto;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.welcome-button {
+    background-color: #007bff;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 15px 20px; /* Increased padding for larger size */
+    font-weight: bold;   /* Make text bold */
+    color: white;        /* Ensure text is visible */
+    border: none;        /* Optional: remove border */
+    border-radius: 5px; /* Optional: add rounded corners */
+    transition: transform 0.3s ease, background-color 0.3s ease; /* Smooth transition */
+}
+
+.welcome-button:hover {
+    background-color: #0056b3;
+    transform: scale(1.1); /* Grow effect on hover */
+}
+
+/* Form Page */
+.form-container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 50px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.form-title {
+    color: #ffffff;
+    font-size: 35px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    background-color: #4CAF50; 
+    padding: 20px 15px; 
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: color 0.3s ease;
+}
+
+
+label {
+    font-size: 18px;
+    margin-top: 20px;
+    display: block;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+.form-button {
+    background-color: #45a049; /* Green background */
+    color: white; /* White text */
+    border: none; /* Remove default border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 8px 16px; /* Adjusted padding for a better size */
+    font-size: 22px; /* Font size */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transitions */
+}
+
+.form-button:hover {
+    background-color: #1eff2a; /* Lighter green on hover */
+    transform: scale(1.05); /* Grow effect */
+}
+
+/* Result Page */
+.result-container {
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+}
+
+/* .result-title {
+    font-size: 32px;
+    color: #ffffff;
+    background-color: #f14943;
+    margin-bottom: 20px;
+} */
+
+
+.result-title {
+    color: #ffffff;
+    font-size: 32px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    background-color: #45a049;
+    padding: 6px 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+.result-title:hover {
+    color: rgb(217, 255, 92); /* Change text color to red on hover */
+}
+
+
+.result-text {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-size:x-large;
+    color: #d9534f;
+}
+
+/* .result-image {
+    max-width: 60%;
+    height: auto;
+    margin-bottom: 20px;
+} */
+
+.result-image  {
+    max-width: 80%;
+    height: auto;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.result-button {
+    background-color: #007bff;
+    text-size-adjust: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.result-button:hover {
+    background-color: #0056b3;
+}
+
+/* Centering Container */
+.center-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 12vh; /* Full viewport height */
+}
+
+.back-button {
+    background-color: #f50f0fb1;
+    display: inline-block;
+    padding: 12.5px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.back-button:hover {
+    background-color: #0056b3;
+}
