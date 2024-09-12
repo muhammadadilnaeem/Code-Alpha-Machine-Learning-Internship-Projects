@@ -1,0 +1,11 @@
+ipykernel
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+catboost
+xgboost
+flask
+nbformat>=4.2.0
