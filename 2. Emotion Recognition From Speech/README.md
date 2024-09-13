@@ -2,10 +2,10 @@
 
 # **Emotion Recognition from Speech 🎤💬**
 
-**## Overview**
+## **Overview**
 This project aims to recognize emotions from speech using a Long Short Term Memory (LSTM) model. It was developed during my internship as a Machine Learning Engineer at CodeAlpha.
 
-**## Demo**
+## **Demo**
 Check out the demo video showcasing the web app's capabilities in recognizing emotions from audio files!
 
 
@@ -13,12 +13,12 @@ https://github.com/user-attachments/assets/37a8fd29-6b5a-4e83-8121-c76826e0c988
 
 
 
-**## Features**
+## **Features**
 - Predicts emotions such as **Fear**, **Sadness**, and more from speech audio.
 - User-friendly web interface for easy interaction.
 - Built using advanced machine learning techniques for accurate predictions.
 
-**## Project Lifecycle**
+## **Project Lifecycle**
 1. **Data Collection** 📊
    - Gathered diverse audio samples for training the model.
 
@@ -65,14 +65,14 @@ https://github.com/user-attachments/assets/37a8fd29-6b5a-4e83-8121-c76826e0c988
 ![Capture](https://github.com/user-attachments/assets/a6452e2e-b8b5-4a5a-969e-16a2310e0747)
 
 
-**## Getting Started**
+## **Getting Started**
 To run this project locally, follow these steps:
 
-**### Prerequisites**
+### **Prerequisites**
 - Python 3.x
 - Required libraries (listed in `requirements.txt`)
 
-**### Installation**
+### **Installation**
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/emotion-recognition-speech.git
@@ -111,7 +111,7 @@ emotion-recognition-speech/
 ```
 
 
-## Acknowledgments
+## **Acknowledgments**
 Thanks to #CodeAlpha for the opportunity to work on this exciting project!
 
 
