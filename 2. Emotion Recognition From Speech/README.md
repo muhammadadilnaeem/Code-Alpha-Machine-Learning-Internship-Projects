@@ -2,6 +2,9 @@
 
 # **Emotion Recognition from Speech 🎤💬**
 
+![task 2](https://github.com/user-attachments/assets/5e568b54-f82a-4ffe-90d1-886ae0dc5f01)
+
+
 ## **Overview**
 This project aims to recognize emotions from speech using a Long Short Term Memory (LSTM) model. It was developed during my internship as a Machine Learning Engineer at CodeAlpha.
 
