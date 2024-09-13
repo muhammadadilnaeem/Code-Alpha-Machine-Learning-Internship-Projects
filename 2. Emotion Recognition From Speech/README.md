@@ -1,4 +1,4 @@
----
+
 
 # **Emotion Recognition from Speech 🎤💬**
 
@@ -114,4 +114,4 @@ emotion-recognition-speech/
 ## Acknowledgments
 Thanks to #CodeAlpha for the opportunity to work on this exciting project!
 
----
+
