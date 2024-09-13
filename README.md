@@ -10,15 +10,16 @@ Welcome to my repository! In this repository, I will upload the source code of m
 
 ### **1. Credit Scoring Model**
 This project focuses on developing a credit scoring model to evaluate the creditworthiness of applicants. It employs various machine learning algorithms to predict the likelihood of default based on historical data.
-- [View Source Code](https://github.com/muhammadadilnaeem/Code-Alpha-Machine-Learning-Internship-Projects/tree/main/Credit%20Scoring%20Model)
+- [View Source Code](https://github.com/muhammadadilnaeem/Code-Alpha-Machine-Learning-Internship-Projects/tree/main/1.%20Credit%20Scoring%20Model)
 
 ### **2. Emotion Recognition From Speech**
 In this project, I implemented a model to recognize emotions from speech audio. The aim is to classify emotions using features extracted from the audio signals, facilitating applications in customer service and mental health.
-- [View Source Code](https://github.com/muhammadadilnaeem/Code-Alpha-Machine-Learning-Internship-Projects/tree/main/Emotion%20Recognition%20From%20Speech)
+- [View Source Code](https://github.com/muhammadadilnaeem/Code-Alpha-Machine-Learning-Internship-Projects/tree/main/2.%20Emotion%20Recognition%20From%20Speech)
 
 ### **3. Disease Prediction From Medical Data**
 This project involves predicting diseases based on medical data. By leveraging machine learning techniques, the model analyzes patient data to assist in early diagnosis and treatment recommendations.
-- [View Source Code](https://github.com/muhammadadilnaeem/Code-Alpha-Machine-Learning-Internship-Projects/tree/main/Disease%20Prediction%20From%20Medical%20Data)
+
+- [View Source Code](https://github.com/muhammadadilnaeem/Code-Alpha-Machine-Learning-Internship-Projects/tree/main/3.%20Disease%20Predition%20From%20Medical%20Data)
 
 ## **Technologies Used**
 - Python
